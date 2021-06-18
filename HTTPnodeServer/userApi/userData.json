@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "naam": "haseeb",
+        "uni": "iqra uni",
+        "status": "pro"
+    },
+    {
+        "id": 2,
+        "naam": "ali",
+        "uni": "karachi uni",
+        "status": "pro"
+    },
+    {
+        "id": 3,
+        "naam": "hamza",
+        "uni": "indus uni",
+        "status": "pro"
+    }
+]
